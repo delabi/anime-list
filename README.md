@@ -12,9 +12,9 @@ https://shikimori.one/api/doc/1.0/animes/index
 
 # Setup
 Clone the repository
-Install the dependencies with npm install
+Install the dependencies with: npm install
 
-Then run the app npm run dev
+Then run the app: npm run dev
 
 
 
